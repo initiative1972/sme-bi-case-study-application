@@ -18,28 +18,28 @@
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+Learn how to build an interactive scatter plot by applying the skill of controlling sets with parameters.
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
-You can look at the same [exercise]([url](https://campus.datacamp.com/courses/case-study-analyzing-customer-churn-in-tableau/exploratory-analysis-1?ex=4)) from the Case Study: Analyzing Customer Churn in Tableau on how to write a good context.
+You're nominated as BI specialist by the board to make a presentation on the 1000 startups and support well-informed decision on which to invest based on the criteria of high revenue, low expense, and top growth.
 
 #### Steps to be executed by the student (max 6)
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
 
-- Step 1
-- Step 2
-- Step 3
-- ...
-
+- Step 1: Create parameter of Revenue Cutoff
+- Step 2: Create parameter of Expenses Cutoff
+- Step 3: Create parameter of Growth Leaders
+- Step 4: Create set of High Revenue
+- Step 5: Create set of Low Expenses
+- Step 6: Build an interactive scatter plot with controllable parameters of Revenue Cutoff and Expenses Cutoff
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+After you finish building the interactive scatter plot, select different values of Expense Cutoff and Revenue Cutoof on the slide bar to see how the scatter plot changes correspondingly.
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/82133844/209137846-c028d6e4-f34d-4c52-877c-80a3d2511038.png">
 
 ## Finalized Workbook
 
@@ -47,8 +47,8 @@ You can look at the same [exercise]([url](https://campus.datacamp.com/courses/ca
 You can upload your final workbook in the exercises folder as `ex-final-sol.twbx` or `ex-final-sol.pbix`.
 
 #### Explanation & Description
-Which answers will the learner be able to solve once building this? How does it fit in the bigger picture?
+By the end of this course, the learner will be able to design and build more advanced interactive Tableau dashboard based on adjustable parameters and sets fit for the purpose of the analysis and data visualization.
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/82133844/209138163-7d838a37-1785-4bb7-8e30-932002d1f0af.png">
