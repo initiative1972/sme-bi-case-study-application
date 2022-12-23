@@ -30,10 +30,10 @@ You're nominated as BI specialist by the board to make a presentation on the 100
 
 - Step 1: Create parameter of Revenue Cutoff
 - Step 2: Create parameter of Expenses Cutoff
-- Step 3: Create parameter of Growth Leaders
-- Step 4: Create set of High Revenue
-- Step 5: Create set of Low Expenses
-- Step 6: Build an interactive scatter plot with controllable parameters of Revenue Cutoff and Expenses Cutoff
+- Step 3: Create combination set of target quadrant (high revenue & low expenses)
+- Step 4: Create combination set of top X startup by growth
+- Step 5: Set up color of interactive scatter plot to highlight "In, In" of target quadrant and top X startup by growth
+- Step 6: Final touch on the dashobard: built to add tooltip information and tidy up the dashboard
 #### Exercise question:
 After you finish building the interactive scatter plot, select different values of Expense Cutoff and Revenue Cutoof on the slide bar to see how the scatter plot changes correspondingly.
 
